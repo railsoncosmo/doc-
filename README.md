@@ -3,17 +3,17 @@
 # **O que é um repositório?**
 
 <aside>
-* 💡 Basicamente, um repositório é um local de armazenamento do nosso código-fonte. É nele que nossos códigos serão armazenados e versionados. Com o GIT, existem dois tipos de repositórios:
+💡 Basicamente, um repositório é um local de armazenamento do nosso código-fonte. É nele que nossos códigos serão armazenados e versionados. Com o GIT, existem dois tipos de repositórios:
 
 </aside>
 
 <aside>
-* 💡 Local: Um repositório onde os códigos são armazenados e versionados localmente, sem a necessidade de um serviço externo;
+💡 Local: Um repositório onde os códigos são armazenados e versionados localmente, sem a necessidade de um serviço externo;
 
 </aside>
 
 <aside>
-* 💡 Remoto: Um repositório onde os códigos são armazenados e versionados remotamente, utilizando serviços como Github, Bitbucket ou Gitlab (que serão vistos posteriormente).
+💡 Remoto: Um repositório onde os códigos são armazenados e versionados remotamente, utilizando serviços como Github, Bitbucket ou Gitlab (que serão vistos posteriormente).
 
 </aside>
 
